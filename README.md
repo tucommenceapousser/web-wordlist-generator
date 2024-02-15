@@ -31,7 +31,7 @@ WEB-Wordlist-Generator scans your web applications and creates related wordlists
 ### From Git
 
 ```
-git clone https://github.com/OsmanKandemir/web-wordlist-generator.git
+git clone https://github.com/tucommenceapousser/web-wordlist-generator.git
 cd web-wordlist-generator && pip3 install -r requirements.txt
 python3 generator.py -d target-web.com
 ```
